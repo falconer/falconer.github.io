@@ -1,2 +1,0 @@
-# falconer.github.io
-blog
